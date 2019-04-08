@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_messages"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Messages"/>
+
+
+    <item
+        android:id="@+id/nav_contacts"
+        android:icon="@drawable/ic_contact_phone_black_24dp"
+        android:title="Contacts"/>
+
+
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/ic_photo_library_black_24dp"
+        android:title="Gallery"/>
+
+</menu>
